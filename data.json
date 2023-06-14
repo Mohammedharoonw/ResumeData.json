@@ -1,15 +1,15 @@
 {
-  "name": "John Doe",
-  "email": "johndoe@example.com",
-  "address": "123 Main St, City",
-  "phone": "123-456-7890",
+  "name": "Mohammed haroon",
+  "email": "mohammedharoonw@gmail.com",
+  "address": "btm layout bangalore",
+  "phone": "8088594295",
   "education": [
-    { "institute": "University A", "year": "2010", "degree": "Bachelor of Science" },
-    { "institute": "University B", "year": "2014", "degree": "Master of Arts" }
+    { "MVJ college of engineering Bangalore": "VTU", "year": "2021", "ME": "Bachelor of Engineering" },
+    { "SKAH PU COLLEGE": "karnataka board", "year": "2017", "pcmb": "science" }
   ],
   "experience": [
-    { "company": "Company X", "year": "2015-2017", "designation": "Software Engineer" },
+    { "Kodnest technologies bangalore": "Company X", "year": "2022-2023", "Software developer trainee": "Software Engineer" },
     { "company": "Company Y", "year": "2018-Present", "designation": "Senior Developer" }
   ],
-  "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS"]
+  "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS","java"]
 }
